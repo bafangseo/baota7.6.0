@@ -13,5 +13,9 @@
 6、删除升级包：cd .. && rm -f LinuxPanel-7.5.16.zip && rm -rf panel
  
  
+ 
+另外
 宝塔升级指定版本
 wget -O update.sh http://download.bt.cn/install/update.sh && sh update.sh 7.4.4
+
+
