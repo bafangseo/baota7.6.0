@@ -11,11 +11,28 @@
 5、执行升级脚本：bash update.sh
 
 6、删除升级包：cd .. && rm -f LinuxPanel-7.5.16.zip && rm -rf panel
+
+
+ # 宝塔--7.6.0
+ 进入目录
+ cd /root/
  
+ 下载
+ wget https://raw.githubusercontent.com/bafangseo/baota-7.5.16-7.7.0/master/LinuxPanel-7.6.0.zip
  
+解压
+ unzip LinuxPanel-7.6.0.zip
+
+进入目录
+ cd /root/panel
+ 
+运行降级脚本
+bash update.sh
+
+
  
 另外
 宝塔升级指定版本
-wget -O update.sh http://download.bt.cn/install/update.sh && sh update.sh 7.4.4
+wget -O update.sh http://download.bt.cn/install/update.sh && sh update.sh 7.44
 
 
