@@ -18,7 +18,7 @@
  cd /root/
  
  下载
- wget https://raw.githubusercontent.com/bafangseo/baota-7.5.16-7.7.0/master/LinuxPanel-7.6.0.zip
+ wget https://raw.githubusercontent.com/bafangseo/baota7.6.0/master/LinuxPanel-7.6.0.zip
  
 解压
  unzip LinuxPanel-7.6.0.zip
